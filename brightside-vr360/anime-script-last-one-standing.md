@@ -127,87 +127,147 @@ An alarm blares and red lights start spinning. **Armoured soldiers** and **quad-
 **INT. LAB CORRIDOR — CONTINUOUS**
 **REI**, invisible, runs past a line of soldiers who never see her and **slides under a closing blast door**. She comes up gasping on the other side, face to face with…
 
-### ACT 3: THE ONE SEAT (2:30–3:40)
+### ACT 3: THE ONE SEAT (2:30–3:30)
 
 **INT. UNDERGROUND LAB — NIGHT**
-**DR. AYA FUJIMORI** (40s, lab coat, cracked glasses) clutches a glowing data drive. Monitors behind her show six silhouettes labelled **GIFTED 01–06**.
+**DR. AYA FUJIMORI** (40s, lab coat, cracked glasses) clutches a glowing data drive. She's shaking. Monitors behind her show six silhouettes labelled **GIFTED 01–06**.
 
 > **FUJIMORI**: あなたたち、何も知らされてないのね。
 > *"They didn't tell you anything, did they."*
 
-The team gathers. She plugs in the drive and a red file opens: **CULL PROTOCOL** (show it as an icon on the monitor, and add the text in the edit).
+The team gathers. She plugs in the drive and a red file opens: **CULL PROTOCOL** (show it as an icon, and add the text in the edit).
 
 > **FUJIMORI**: プロジェクト影は終わる。回収されるのは…ギフテッド一人だけ。
 > *"Project Kage is being shut down. Only one Gifted gets extracted."*
 
-The team freezes. Each of them glances, just for a moment, at the others' hands and weapons.
-
 > **KUROGANE** *(comms, cold)*: 聞いた通りだ。ヘリの席は一つ。最後に立っていた者が乗る。
 > *"You heard her. One seat on the helicopter. The last one standing gets on."*
 
-A long, tense silence. Rain drips. **REI** puts her hand on her pistol.
+The team freezes. Each of them glances, just for a moment, at the others' weapons. **REI's** hand drifts to her pistol, **and she holds it there a beat too long** (plant this for the later betrayal).
 
 > **DAIGO** *(laughs, and his steel skin fades)*: くだらねえ。
 > *"What a load of crap."*
 
-> **JIN**: ギフテッドは六人。俺たちは四人。…残りの二人はどこだ？
-> *"There are six Gifted. We're four. So where are the other two?"*
+**⚡ TWIST 1: THE DEFECTOR IS BAIT**
+**YUME** tilts her head. Cyan rings pulse and **Fujimori's heartbeat** plays loud on the soundtrack: slow and **perfectly calm**.
+
+> **YUME**: …ジン。この人、震えてるのに…心臓が全然怖がってない。
+> *"…Jin. She's shaking, but her heart isn't scared at all."*
+
+Fujimori stops shaking. She takes off her cracked glasses and **smiles**. The drive's light turns from red to **pulsing white**: it's a **beacon**.
+
+> **FUJIMORI**: いい耳ね、四号。…もう呼んであるわ。
+> *"Good ears, Number Four. …I've already called him."*
 
 The lights go out. In the dark, a **smooth white mask** tilts its head.
 
-### ACT 4: HOLLOW (3:40–4:40)
+### ACT 4: HOLLOW (3:30–4:25)
 
 **INT. UNDERGROUND LAB — CONTINUOUS**
-**HOLLOW** blurs forward and **touches DAIGO's arm**. The steel ripple **spreads onto HOLLOW**. He punches, and Daigo crashes through a wall.
+**HOLLOW** blurs forward and **touches DAIGO's arm**. The steel ripple **spreads onto HOLLOW**. He punches, and Daigo crashes through a wall. Fujimori slips away through a hidden door.
 
-> **HOLLOW** *(soft, echoing)*: 君の力、借りるよ。
-> *"I'll borrow your power."*
+> **HOLLOW** *(soft, echoing)*: 君の力、借りるよ。…兄さん。
+> *"I'll borrow your power… big brother."*
 
-**YUME** shouts a warning, but HOLLOW touches her next. **Cyan rings** burst from him and he now hears everything. He blocks Jin's first attack without looking.
+Daigo freezes in the rubble.
 
-**JIN** activates **Sansei** again and again. His eye **bleeds amber light** and the afterimages start to **glitch**.
+**YUME** touches HOLLOW by accident as she tries to pull Daigo free, and **cyan rings** burst from him. Now he hears everything and blocks Jin's attack without looking. **JIN** uses **Sansei** again and again. His eye **bleeds amber light** and the afterimages **glitch**.
 
-> **JIN** *(through gritted teeth)*: あと…二回が限界だ。
-> *"Two more… that's my limit."*
+> **JIN** *(through gritted teeth)*: あと…一回が限界だ。
+> *"One more… that's my limit."*
 
 **THE PLAN:** a rapid montage cut with whip-pans.
-1. **YUME** takes off her headphones and **screams into a comms amplifier**. The feedback overloads HOLLOW's **borrowed Echo**, and he staggers with his hands on his ears.
-2. **DAIGO** bursts out of the rubble, now back in iron, and **pins HOLLOW** to the floor.
-3. **REI** holds her breath and **vanishes**. HOLLOW, deafened, can't find her.
-4. **JIN** uses his **last Sansei**. The amber afterimage shows exactly where HOLLOW will be in three seconds.
+1. **YUME** screams into a comms amplifier. The feedback overloads HOLLOW's **borrowed Echo**, and he staggers.
+2. **DAIGO** hardens again and pins HOLLOW, but **can't bring himself to hit him**.
+3. **JIN** uses his **last Sansei** and sees the opening.
 
 > **JIN**: レイ。三秒後、右。
 > *"Rei. Three seconds. Right."*
 
-The 3-second countdown freeze-frames. **REI reappears** in mid-air, and her strike shatters **HOLLOW's mask** in an impact frame. We never see his face: a white flash, then he's gone in a burst of mist (朝霧 means "morning mist").
+**REI** reappears in mid-air, and her strike **shatters HOLLOW's mask**.
 
-**EXT. HELIPAD — MOMENTS LATER — DAWN BREAKING**
-The four limp out with Fujimori. The one-seat helicopter waits, its rotors turning.
+**⚡ TWIST 2: HOLLOW'S FACE**
+Behind the mask is a young man with **Daigo's jaw and the same tattoo line**: **KENJI ONIZUKA**, Daigo's little brother, officially killed in action two years ago.
+
+> **DAIGO** *(breaking)*: 健二…？ お前、死んだって…
+> *"Kenji…? They told me you were dead…"*
+
+> **HOLLOW / KENJI**: 死んだよ。黒鉄に作り直されただけだ。
+> *"I did die. Kurogane just rebuilt me."*
+
+Kenji turns into **morning mist** (朝霧 Asagiri) and is gone. Daigo punches the floor, and the concrete cracks.
+
+Jin collapses. **His eye has burnt out and he's blind.**
+
+### ACT 5: BETRAYAL (4:25–4:50)
+
+**EXT. HELIPAD — DAWN BREAKING — RAIN EASING**
+The three limp out with blind Jin propped between them. The one-seat helicopter waits, its rotors turning.
 
 > **KUROGANE** *(comms)*: 決めろ。誰が乗る？
 > *"Decide. Who gets on?"*
 
-The team looks at each other. **DAIGO** lifts the pilot out of the seat with one arm and politely sets him down on the helipad.
+> **DAIGO**: 全員だ。定員オーバーでもな。
+> *"All of us. Even if we're over capacity."*
 
-> **DAIGO**: 全員乗る。定員オーバーだけどな。
-> *"All of us. Bit over capacity, though."*
+A soft **click**. **REI** stands behind Daigo and presses an **injector into his neck**. The steel ripple **fails** and he drops to his knees, powerless.
 
-> **JIN** *(to the comms)*: 最後に立ってるのは…俺たち全員だ。
-> *"The last one standing… is all of us."*
+**⚡ TWIST 3: REI IS KUROGANE'S PLANT**
+She swings her pistol toward **Yume**, then toward **blind Jin**.
 
-Jin **crushes the earpiece**. The crowded helicopter lifts off into the sunrise. **Hero shot** of all four hanging off the skids, backlit by the dawn.
+> **REI** *(voice steady, eyes wet)*: ごめん。最初から…これが私の任務だった。
+> *"I'm sorry. From the start… this was my mission."*
 
-### STINGER (4:40–5:00)
+**CUT TO:** a **replay of the cold open**, re-edited. Jin's future-vision flashes now show the missing frames: in every one, **Rei is the one standing over them**. He saw it coming three seconds ago… and didn't want to believe it.
+
+> **JIN** *(blind, quiet)*: 知ってた。…撃てよ、レイ。
+> *"I knew. …Go ahead, Rei."*
+
+> **YUME** *(ears ringing, hearing everything)*: 待って！ レイの心臓…嘘ついてる！
+> *"Wait! Rei's heartbeat… it's lying!"*
+
+**⚡ TWIST 4: THE DOUBLE-CROSS**
+Rei **turns 180°** and shoots **the helicopter pilot's hand**. A **suppressed rifle** clatters out of it: the "pilot" was Kurogane's **executioner**, told to kill whoever won.
+
+She holds her breath, **vanishes**, and the helicopter lifts off with **only her aboard**. An empty seat can be seen through the door as it banks away.
+
+> **REI** *(comms, only Jin can hear)*: 席は一つ。…迎えに来る。必ず。
+> *"One seat. …I'll come back for you. I promise."*
+
+The island's **self-destruct siren** starts wailing. Three Gifted, stranded: one blind, one powerless, one deafened.
+
+### STINGER (4:50–5:00)
 
 **INT. KAGE COMMAND — DARK ROOM**
-A hand with a **military prosthetic** turns off a monitor showing the helicopter. We see **COMMANDER KUROGANE** for the first time: half his face scarred, and one eye glowing **the same amber as Jin's**.
+Rei kneels before **COMMANDER KUROGANE** (half his face scarred, military prosthetic arm) and lays the drive at his feet.
 
-> **KUROGANE**: 想定通りだ。フェーズ２を開始しろ。…六人目を起こせ。
-> *"As expected. Begin Phase Two… wake the sixth."*
+> **KUROGANE**: 他の三人は？
+> *"And the other three?"*
 
-A cryo-pod hisses open, and a **pale hand** grips its edge.
+> **REI**: 死にました。
+> *"Dead."*
 
-**END CARD:** *"EPISODE 2 — at 10K likes?"* with the title logo and subscribe button.
+Hold on Rei's face: we **know she's lying**, and so, maybe, does he.
+
+> **KUROGANE**: …そうか。では六人目を起こせ。
+> *"…I see. Then wake the sixth."*
+
+**⚡ FINAL TWIST**
+A cryo-pod hisses open and a figure sits up, dripping. It's **JIN**: the same face and the same silver hair, but **both eyes glowing amber**.
+
+**END CARD:** *"Which Jin is the real one? EPISODE 2 — at 10K likes."*
+
+---
+
+## 4b. Twist & betrayal map (for later episodes)
+
+| Twist | Setup (plant early) | Payoff | Open question for Ep. 2+ |
+|---|---|---|---|
+| Fujimori is bait | She shakes but never cries. The drive glows too brightly | Yume hears her calm heartbeat | Does Fujimori work for Kurogane, or a third faction? |
+| HOLLOW = Daigo's brother | HOLLOW has the same neck tattoo line as Daigo (shown in Act 2 in the background) | The unmasking | Can Kenji be saved, or is he fully Kurogane's? |
+| Rei is the plant | Her hand lingers on her pistol. She's the only one Kurogane calls by her first name in Act 1 | The injector at the helipad | Why did she flip? (her sister is held by KAGE) |
+| Rei's double-cross | Her heartbeat is never shown on Yume's scans until the helipad | She shoots the executioner, not the team | Is she lying to Kurogane or to the team? |
+| Two Jins | Kurogane never appears on screen until the end. Jin's cold-open vision had "missing frames" | The cryo-pod | Is our Jin the clone? Who does Kurogane's amber prosthetic belong to? |
 
 ---
 
@@ -215,7 +275,7 @@ A cryo-pod hisses open, and a **pale hand** grips its edge.
 
 | # | Time | Clip content | Reference images |
 |---|---|---|---|
-| 1 | 0:00 | Jin's eye opens, a montage of future-death flashes, the rainy helipad, then the title | Jin |
+| 1 | 0:00 | Jin's eye opens, future-death flashes (keep Rei's face hidden), the rainy helipad, then the title | Jin |
 | 2 | 0:15 | HALO jump through storm clouds, lightning shows the fortress | All 4 |
 | 3 | 0:30 | Landing on the cliffs, Yume's Echo sound rings ripple across the island | Yume |
 | 4 | 0:45 | Rei goes invisible and takes down the gate guards | Rei |
@@ -225,18 +285,18 @@ A cryo-pod hisses open, and a **pale hand** grips its edge.
 | 8 | 1:45 | Yume's rooftop sniping at drones | Yume |
 | 9 | 2:00 | Rei slides under the blast door invisibly | Rei |
 | 10 | 2:15 | Rei meets Dr. Fujimori, the monitors with six silhouettes | Rei, Fujimori |
-| 11 | 2:30 | CULL PROTOCOL revealed, the team freezes | All 4 |
-| 12 | 2:45 | Kurogane's "one seat" line, the tense glances | All 4 |
-| 13 | 3:00 | Daigo laughs, Jin asks where the other two are | Daigo, Jin |
-| 14 | 3:15 | Blackout, HOLLOW's white mask appears | HOLLOW |
-| 15 | 3:30 | HOLLOW copies Iron Skin and punches Daigo through the wall | HOLLOW, Daigo |
-| 16 | 3:45 | HOLLOW copies Echo, Jin's eye starts glitching | HOLLOW, Jin, Yume |
-| 17 | 4:00 | The plan montage: Yume's feedback scream, Daigo's pin | Yume, Daigo, HOLLOW |
-| 18 | 4:15 | Jin's final Sansei, Rei's mid-air strike, the mask shatters into mist | Jin, Rei, HOLLOW |
-| 19 | 4:30 | The helipad choice, "all of us", the crowded helicopter takes off into the sunrise | All 4 |
-| 20 | 4:45 | The Kurogane reveal, the cryo-pod, the end card | Kurogane |
+| 11 | 2:30 | CULL PROTOCOL revealed, "one seat", Rei's hand lingers on her pistol | All 4 |
+| 12 | 2:45 | Yume hears the calm heartbeat, Fujimori smiles, the drive is a beacon, blackout, the white mask | Yume, Fujimori, HOLLOW |
+| 13 | 3:00 | HOLLOW copies Iron Skin, Daigo goes through the wall, "big brother" | HOLLOW, Daigo |
+| 14 | 3:15 | HOLLOW copies Echo, Jin's eye glitches | HOLLOW, Jin, Yume |
+| 15 | 3:30 | The plan montage, "Rei. Three seconds. Right.", the mask shatters | All 4, HOLLOW |
+| 16 | 3:45 | Kenji unmasked, Daigo breaks down, the mist vanishes, Jin goes blind | Daigo, HOLLOW, Jin |
+| 17 | 4:00 | The helipad at dawn, "all of us", Rei's injector drains Daigo's powers | All 4 |
+| 18 | 4:15 | Rei aims, the cold-open replay with the missing frames, "Rei's heartbeat is lying" | Rei, Jin, Yume |
+| 19 | 4:30 | The 180° double-cross shot, Rei flies off alone, the self-destruct siren | Rei, all 4 |
+| 20 | 4:45 | Rei lies to Kurogane, "wake the sixth", the second Jin, the end card | Rei, Kurogane, Jin |
 
-**Budget (Seedance 2.0):** about 2,700 credits at 1080p, about 1,350 at 720p. Character sheets for 7 characters cost about 14 credits. Voice lines are extra.
+**Budget (Seedance 2.0):** about 2,700 credits at 1080p, about 1,350 at 720p. Character sheets for 8 characters (adding Kenji unmasked) cost about 16 credits. Voice lines are extra.
 
 ## 6. Packaging
 

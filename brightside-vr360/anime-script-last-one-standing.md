@@ -12,7 +12,7 @@ In 2031, Japan's secret defence program **PROJECT KAGE (影 "Shadow")** creates 
 
 On the defector's data drive is the **CULL PROTOCOL**: the program will pull out **only one Gifted**, and whoever survives the mission is the one who gets out. Their helicopter has **one seat**.
 
-**Series hook:** every episode, the team is pushed to turn on each other, and every episode they refuse. *"Then we'll all be the last one standing."*
+**Series hook:** every episode, the team is pushed to turn on each other. **Someone always does, but never for the reason you think.** Nobody can be trusted: not the handler, not the defector, not the enemy, and not the person next to you.
 
 **Tone:** gritty spy thriller mixed with stylish super-power action. Think tactical gear, rain, neon, and slow-motion fights.
 **Content level:** YouTube-safe. Stylised action, no blood or gore, and injuries are shown as impact flashes, sparks and shattered armour.
@@ -24,7 +24,7 @@ On the defector's data drive is the **CULL PROTOCOL**: the program will pull out
 | Codename | Name | Role | Ability | Cost / weakness | Look |
 |---|---|---|---|---|---|
 | **KITSUNE** 狐 | **Jin Sagara** (19) | Leader, close-quarters fighter | **Sansei**: sees 3 seconds into the future, shown as ghostly afterimages | Each use burns his eyes. Overuse makes him temporarily blind | Silver undercut, one amber eye glowing when active, black tactical coat, twin short blades |
-| **KAGEROU** 陽炎 | **Rei Mikami** (18) | Assassin, infiltration | **Heat Haze**: fully invisible *while holding her breath* | Visible the moment she breathes. About 40 seconds max | Long black ponytail, fox-mask half-face respirator, slim stealth suit, silenced pistol, wire garrote |
+| **KAGEROU** 陽炎 | **Rei Mikami** (18) | Assassin, infiltration | **Heat Haze**: fully invisible *while holding her breath* | Visible the moment she breathes. About 40 seconds max | Long black ponytail, fox-mask half-face respirator, slim stealth suit, silenced pistol, wire garrote. **Secret: Kurogane's plant inside the unit** |
 | **TETSU** 鉄 | **Daigo Onizuka** (24) | Heavy weapons, the team's shield | **Iron Skin**: his skin turns to steel, bulletproof | Too heavy to run or swim while it's on. Hardening again and again stiffens his heart | Huge build, shaved head with a tattoo line, torn sleeveless armour, carries a mini-gun and a riot shield |
 | **SIREN** 聲 | **Yume Hoshino** (17) | Recon, hacker, sniper spotter | **Echo**: hears every heartbeat and electronic signal within 1 km | Loud noise hurts her. Explosions can knock her out | Short white bob, big headphones, oversized hoodie over body armour, sniper rifle, drone swarm |
 
@@ -33,8 +33,8 @@ On the defector's data drive is the **CULL PROTOCOL**: the program will pull out
 | Name | Role | Ability / detail |
 |---|---|---|
 | **Commander Sho Kurogane** 黒鉄 | Head of PROJECT KAGE and the team's handler. A calm voice on comms that's never shown until the end | Military prosthetic right arm. Believes "a weapon only needs one blade" |
-| **HOLLOW** (Asagiri) 朝霧 | The **5th Gifted**, the handler's pet | **Mimic**: copies any ability he touches for 60 seconds. Wears a smooth white mask with no face |
-| **Defector: Dr. Aya Fujimori** | The scientist who created the Gifted | Holds the drive and knows who the **6th Gifted** is (the hook for later episodes) |
+| **HOLLOW** (Asagiri) 朝霧 | The **5th Gifted**, the handler's pet | **Mimic**: copies any ability he touches for 60 seconds. Wears a smooth white mask with no face. **Secret: Daigo's "dead" little brother, Kenji** |
+| **Defector: Dr. Aya Fujimori** | The scientist who created the Gifted | Claims to be defecting with the drive. **Secret: she's bait, and the drive is a beacon** |
 
 ---
 
@@ -82,6 +82,11 @@ A HALO jump. Four silhouettes fall through storm clouds, and lightning shows the
 
 > **KUROGANE** *(comms, calm)*: ゴースト・フォー。目標は藤森博士。生きたまま回収しろ。
 > *"Ghost-4. Target: Dr. Fujimori. Retrieve her alive."*
+>
+> **KUROGANE** *(to Rei only, private channel)*: …レイ。分かってるな。
+> *"…Rei. You know what to do."*
+
+*(Planted clue: he calls only Rei by her first name. She doesn't reply.)*
 
 **EXT. FORTRESS CLIFFS — CONTINUOUS**
 They land on the cliffs. **YUME** kneels, pushes her headphones on, and **cyan sound rings** ripple out across the island.
@@ -107,6 +112,8 @@ Two guards under a floodlight. **REI** takes a breath and **shimmers out of sigh
 
 **INT. FORTRESS CORRIDOR — NIGHT**
 An alarm blares and red lights start spinning. **Armoured soldiers** and **quad-legged combat drones** pour in from both ends.
+
+*(Planted clue: in the background, a white-masked figure with **Daigo's neck tattoo line** watches from a catwalk, then vanishes into mist.)*
 
 **DAIGO** steps forward and his skin ripples to **gunmetal steel**. Bullets spark off him in slow motion while he raises the mini-gun.
 
@@ -301,12 +308,13 @@ A cryo-pod hisses open and a figure sits up, dripping. It's **JIN**: the same fa
 ## 6. Packaging
 
 - **Title options:**
-  1. *They Were Told Only ONE Could Survive… | Anime Short "Last One Standing"*
+  1. *They Were Told Only ONE Could Survive… Then She Betrayed Them | Anime Short*
   2. *4 Super-Soldiers, 1 Helicopter Seat | Original Anime*
   3. *最後の一人 LAST ONE STANDING Ep.1 | Spy Anime*
-- **Thumbnail:** Jin's glowing amber eye on the left, HOLLOW's white mask looming on the right, the other three in silhouette, and bold text **"ONLY 1 SURVIVES"**.
+- **Thumbnail:** Jin's glowing amber eye on the left, HOLLOW's white mask looming on the right, the other three in silhouette, and bold text **"WHO BETRAYED THEM?"**. Rei's silhouette sits slightly apart, with her pistol hidden behind her back.
 - **Shorts cut-downs:**
   1. Cold open "In three seconds, every one of us is dead"
   2. Daigo's Iron Skin tanking bullets
-  3. "Rei. Three seconds. Right." and the mask shatter
-- **Series engine:** each episode reveals one more Gifted (ending with the 6th), one Kurogane secret, and one more moment where the team is pushed to turn on each other and refuses.
+  3. The unmasking ("big brother")
+  4. Rei's betrayal and the 180° double-cross
+- **Series engine:** each episode has one betrayal, one secret about Kurogane, and one twist that changes the meaning of an earlier scene. Plant every twist on screen before it pays off so rewatchers can spot it (this drives comments).

@@ -313,4 +313,15 @@ Sources: ESPN, Sky Sports, NBC Sports, UEFA, Olympics.com, CNN, Euronews, Al Jaz
   | Seedance 2.5 · 1080p | 1,104 | 24 | ~340 | **~1,470 credits** |
 
   The balance at the time of writing is 40 credits (Pro plan).
+- **Character sheets for EP0 + EP1** (Nano Banana Pro, 2 credits per image on this account). One sheet per character: a full-body view plus a close-up, in the anime-2D style.
+
+  | Group | Sheets |
+  |---|---|
+  | Arsenal: Arteta, Ødegaard, Gabriel, Havertz, Raya, Eze, Gyökeres, Calafiori | 8 |
+  | Opponents and crowd: PSG shadow-clan silhouette (also used for Dembélé), Man City clan player, Gooner cheer-squad (*ōendan*) fan | 3 |
+  | Extras: Gyökeres's jutsu (unsealed and sealed), a series style sheet | 3 |
+  | *Optional backgrounds:* Budapest in ink, Cardiff castle gate, locker room, Cannon Castle | 4 |
+
+  **Minimum (11 characters, 1 try each) is about 22 credits. Recommended (14 sheets, allowing one redo each) is about 56 credits. With backgrounds, about 72 credits.**
+  Following the character-sheet workflow, sheets must show *original* stylised characters identified by name, squad number, hair and kit, not real faces.
 - **Clip plan.** 9 episodes, ~460 seconds in total, about 78 clips. The jutsu needs its own reference sheet (the five stages plus the sealed version), about 6 images, or roughly 12 more credits.

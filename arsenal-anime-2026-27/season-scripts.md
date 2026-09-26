@@ -176,4 +176,13 @@ Sources: ESPN, Sky Sports, NBC Sports, UEFA, Al Jazeera, VAVEL and Arseblog matc
 
 - **Real people's likenesses.** Every player and Arteta is a real person. Image and video models often refuse photoreal likenesses or recognisable faces of real people, and publishing them carries personality-rights risk. The safer route is stylised anime characters identified by name, squad number and hairstyle, not a face match.
 - **Club and competition marks.** The Arsenal crest, Premier League and Champions League logos, and sponsor logos are trademarks. Use the invented cannon-castle crest and generic trophies in the visuals. Fine for a fan project; get permission before any commercial use.
+- **Cost estimate for EP1 + EP2** (80 seconds total, 12 clips). Rates are worked out from this account's past charges (26 Sep 2026): Seedance 2.5 at 720p with audio costs 7 credits per second (5 s = 35, 6 s = 42); Seedance 2.5 at 1080p costs 12 credits per second (5 s = 60); Seedance 2.0 at 720p costs 4.5 credits per second (15 s = 67.5); a Nano Banana Pro image costs 2 credits.
+
+  | Option | Video | Character/background refs (~12 images) | +30% for redoing bad clips | **Total** |
+  |---|---|---|---|---|
+  | Seedance 2.0 · 720p | 360 | 24 | ~115 | **~500 credits** |
+  | Seedance 2.5 · 720p (recommended) | 560 | 24 | ~175 | **~760 credits** |
+  | Seedance 2.5 · 1080p | 960 | 24 | ~295 | **~1,280 credits** |
+
+  Per episode, that's roughly half of each total. The balance at the time of writing is 40 credits (Pro plan), which isn't enough for even one 6-second Seedance 2.5 clip.
 - **Clip plan.** Each beat of 5 to 8 seconds maps to one video generation, so about 6 to 7 clips per episode and about 52 clips for all 8 episodes. Price this with `models_explore` before generating anything.

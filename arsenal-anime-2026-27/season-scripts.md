@@ -58,6 +58,7 @@ Traits are based on each person's **public image and playing style**. The locker
 | **Martín Zubimendi** | The metronome | Calm, precise, never wastes a pass. |
 | **Mikel Merino** | The mountain | Tall and tireless; arrives late in the box. |
 | **Noni Madueke** | The spark | Direct winger who loves a step-over. |
+| **Ezri Konsa** | The stone wall (石壁) | Calm, strong, and quick to recover; happiest in a one-on-one. New arrival from Villa who says little and wins everything. |
 | **Bruno Guimarães** | The warrior-poet | Passionate Brazilian newcomer; wasn't in Budapest and refuses to let anyone dwell on it. |
 | **Christos Tzolis** | The new arrival | New winger with an eye for a cross. |
 | **Max Dowman** | The prodigy (神童) | 16 years old, fearless, left-footed slalom dribbler. |
@@ -98,6 +99,7 @@ Fans sing **only in games against major rivals or in big-margin wins**. In every
 | C4 | "Champions of England — you'll never take our crown!" | EP1 |
 | C5 | "Welcome to the Premier League — now go home with nothing!" | EP2 |
 | C6 | "You scored too early, you scored too early — now watch us turn it round!" | EP4 |
+| C7 | "Konsa's got him in his pocket, Konsa's got him in his pocket!" | EP4 |
 
 † = traditional Arsenal terrace chant. Every other line was written for this series.
 
@@ -187,22 +189,25 @@ The Emirates crowd sings *The Angel (North London Forever)* by Louis Dunford as 
 
 ---
 
-## EP 4 — 「逆転」 *GYAKUTEN* — "Turnaround" · 52 s
+## EP 4 — 「逆転」 *GYAKUTEN* — "Turnaround" · 64 s
 **Premier League · Arsenal 2–1 Chelsea · Emirates · Sun 6 Sep 2026 · 🗣️ chants · 🎵 anthem**
 
-*The mirror of Budapest: there, Arsenal scored first and were caught. Here, they concede first and hit back.*
+*The mirror of Budapest: there, Arsenal scored first and were caught. Here, they concede first and hit back. Inside it is a one-on-one duel: **Konsa v João Pedro**.*
 
 | Time | Visual | Audio / dialogue |
 |---|---|---|
 | 0:00–0:04 | Two banners face each other across a bridge: red cannon and blue lion. 逆転. | NARRATOR: "A London war." |
-| 0:04–0:10 | **🎵 ANTHEM.** A flag the size of a stand ripples down the North Bank; scarves are held high. | *The Angel (North London Forever)* (licensed) or the stand-in anthem. |
-| 0:10–0:15 | 1'17". Morgan Rogers volleys Chelsea ahead. A Budapest ink flash: the same feeling of it slipping away. | COMMENTATOR: "Seventy-seven seconds and Chelsea lead!" |
-| 0:15–0:20 | Arteta refuses to sit. He turns to the stands and pounds his chest. | ARTETA: "WITH US! COME ON!" |
-| 0:20–0:25 | Midway through the first half, Havertz rises at the back post against his old club: 1–1. Just a little nod. | 「ゴール！」 NARRATOR: "His third Premier League goal against his old clan." |
-| 0:25–0:32 | **LOCKER ROOM (half-time).** Rice clowns around to lift the mood. Arteta cuts in, suddenly quiet and intense. | ARTETA: "In Budapest, we led — and we let them come back. Today WE are the ones who come back. Understood?!" ALL: "YES, BOSS!" |
-| 0:32–0:38 | 50'. Tzolis crosses; Ødegaard finishes with his left foot. 2–1. Cherry-blossom fireworks. | COMMENTATOR: "Ødegaard! Turnaround complete!" |
-| 0:38–0:44 | **TERRACES.** The Clock End cups hands to ears at the Chelsea fans. | FANS (C6): "You scored too early, you scored too early — now watch us turn it round!" |
-| 0:44–0:52 | Gyökeres comes off the bench, his first Premier League minutes of the season, and the chains rattle as he runs on. White stands in front of the Chelsea keeper at a late corner, deadpan. Final whistle; Arteta hugs every player. Scoreboard, crown tracker at "3 / 38". | FANS (C1): "We love you Arsenal, we do!" Text: **アーセナル 2 – 1 チェルシー** |
+| 0:04–0:10 | **LOCKER ROOM (pre-match).** Arteta slaps a photo of João Pedro onto the shoji screen, then points at Konsa. | ARTETA: "Him. You. One against one — all day. No help. Can you do it?" KONSA (calm, not even blinking): "Leave him with me." |
+| 0:10–0:16 | **🎵 ANTHEM.** A flag the size of a stand ripples down the North Bank; scarves are held high. | *The Angel (North London Forever)* (licensed) or the stand-in anthem. |
+| 0:16–0:21 | 1'17". Morgan Rogers volleys Chelsea ahead. A Budapest ink flash: the same feeling of it slipping away. | COMMENTATOR: "Seventy-seven seconds and Chelsea lead!" |
+| 0:21–0:25 | Arteta refuses to sit. He turns to the stands and pounds his chest. | ARTETA: "WITH US! COME ON!" |
+| 0:25–0:32 | **THE DUEL.** Split screen: João Pedro, a restless blue flame, drifts and darts off the front line; Konsa, a stone wall, is always at his shoulder. Pedro spins into him, bounces off, and hits the grass. Konsa helps him up with one hand, deadpan. | SFX: body-on-body *THUD* ×3. NARRATOR: "Every time he turned... the wall was already there." |
+| 0:32–0:37 | Respect beat: Pedro, back to goal, chops a pass 50 yards to release Neto, a moment of pure quality. Konsa narrows his eyes. | JOÃO PEDRO (grinning): "Not bad, huh?" KONSA: "Once." |
+| 0:37–0:42 | Midway through the first half, Havertz rises at the back post against his old club: 1–1. Just a little nod. | 「ゴール！」 NARRATOR: "His third Premier League goal against his old clan." |
+| 0:42–0:48 | **LOCKER ROOM (half-time).** Rice clowns around, then shoves Konsa's shoulder. Arteta cuts in, suddenly quiet and intense. | RICE: "You've got him in your pocket, Ez!" ARTETA: "In Budapest, we led — and we let them come back. Today WE are the ones who come back!" ALL: "YES, BOSS!" |
+| 0:48–0:53 | 50'. Tzolis crosses; Ødegaard finishes with his left foot. 2–1. Cherry-blossom fireworks. | COMMENTATOR: "Ødegaard! Turnaround complete!" |
+| 0:53–0:58 | Chelsea break at speed with Rogers. Konsa comes across and makes a perfect sliding tackle that takes the ball clean. He stands up and roars at the North Bank. | SFX: a sword-slash *SHING*. FANS (C7): "Konsa's got him in his pocket!" |
+| 0:58–1:04 | Gyökeres comes off the bench, his first Premier League minutes of the season, chains rattling. The Clock End cups hands to ears at the Chelsea fans. Final whistle; Arteta bear-hugs Konsa first. Scoreboard, crown tracker at "3 / 38". | FANS (C6): "You scored too early — now watch us turn it round!" Then (C1): "We love you Arsenal, we do!" Text: **アーセナル 2 – 1 チェルシー** |
 
 ---
 
@@ -289,6 +294,7 @@ Sources: ESPN, Sky Sports, NBC Sports, UEFA, Olympics.com, CNN, Euronews, Al Jaz
 - **EP4:** Havertz's equaliser was "midway through the first half". The header is drawn for drama.
 - **EP6:** Arsenal were 4 from 4 in the league after this game. "Top of the league" is inferred and should be checked against the table.
 - **EP7:** minutes of the Madueke, Merino, Mehmeti and Akpom goals.
+- **EP4 Konsa v João Pedro:** Konsa (who joined from Aston Villa) started. The Telegraph's Sam Dean described a "good contest" and said Arsenal seemed happy to leave Konsa one-on-one with João Pedro. Konsa made a sliding tackle that took the ball off Rogers and stopped a quick counter; one rating gave him 7.5. João Pedro (rated 7) ran hard and released Neto with a 50-yard pass played with his back to goal. The duel is "won" in the anime for drama; in reality it was fairly even. Also left out: Konsa was offside and interfering with play when an earlier Arsenal equaliser was disallowed.
 - **Gyökeres:** 21 goals in all competitions (14 in the Premier League) in 2025/26, a title winner. In 2026/27 he wasn't used off the bench in the first two league games and came on against Chelsea. He started against Napoli (9 touches, 0 shots, replaced by Havertz after 73 minutes, shortly before Ødegaard's winner) and started against Ipswich. As of late September he has 0 goals and 29 Premier League minutes. He was called up by Sweden for the international break and started against Romania. Whether he played in the Community Shield, at Sunderland or at Brighton isn't confirmed, so the script doesn't show him in those games. Arteta's lines to him in EP7 are a dramatised paraphrase of Arteta's public comments that Gyökeres's confidence is intact and the goals will come. The jutsu, the seal and the chains are fiction.
 - All **locker room and tunnel scenes, dialogue and chants are invented**. The one exception is Arteta calling the Brighton defeat a "big lesson", which he really said. The emotional arcs (Gabriel, Eze) are storytelling based on the real shootout, not claims about how the players actually feel.
 
@@ -307,4 +313,4 @@ Sources: ESPN, Sky Sports, NBC Sports, UEFA, Olympics.com, CNN, Euronews, Al Jaz
   | Seedance 2.5 · 1080p | 1,104 | 24 | ~340 | **~1,470 credits** |
 
   The balance at the time of writing is 40 credits (Pro plan).
-- **Clip plan.** 9 episodes, ~448 seconds in total, about 75 clips. The jutsu needs its own reference sheet (the five stages plus the sealed version), about 6 images, or roughly 12 more credits.
+- **Clip plan.** 9 episodes, ~460 seconds in total, about 78 clips. The jutsu needs its own reference sheet (the five stages plus the sealed version), about 6 images, or roughly 12 more credits.

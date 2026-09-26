@@ -26,6 +26,7 @@ The series follows the clan through one season with two goals:
 | **Eze's silence** | He also missed in the shootout. He doesn't talk about it; he answers it on the pitch. His assist for Dowman (EP7) is his first bright moment. |
 | **Havertz's goal "that wasn't enough"** | He scored in the final. This season, every goal he scores is a promise that the next one will count. |
 | **Raya, the guardian** | He saved a kick in Budapest. His penalty save at Sunderland (EP6) shows the clan that spot kicks can go their way. |
+| **Gyökeres's sealed jutsu** | Last season he scored 21 goals and wore the mask as champion. This season he is on the bench, the goals won't come, and his killer technique is **sealed** (封印): black chains wrap his boots. Each time he plays, the seal strains. The first part of the season ends with the seal cracking while he's away with Sweden. |
 | **Arteta's fire** | The sensei refuses to let the club hide from Budapest. His mantra: *"We don't run from the pain. We use it."* |
 | **The crown** | The Premier League trophy stands in the Cannon Castle's shrine room. The scoreboard at the end of each Premier League episode shows how the title defence is going. |
 
@@ -49,6 +50,7 @@ Traits are based on each person's **public image and playing style**. The locker
 | **Bukayo Saka** (No. 7) | The shining star | Smiling and humble; cuts inside onto his left foot; ice-cold from the spot. |
 | **Declan Rice** | The engine | Huge energy; the dressing-room joker who knows when to stop joking. |
 | **Kai Havertz** | The cool ghost | Laid-back and almost sleepy; arrives unseen at the back post. |
+| **Viktor Gyökeres** | The masked killer (仮面の殺し屋) | A powerful, direct striker who runs straight through defenders and finishes without mercy. Famous for his mask celebration (fingers laced over his face). Quiet, intense, and frustrated this season. Wields the jutsu below. |
 | **David Raya** | The guardian | Calm sweeper-keeper; penalty-saving specialist. |
 | **Eberechi Eze** | The silent artist | Silky dribbler who plays with a smile, now quieter since Budapest. |
 | **Riccardo Calafiori** | The flame | Emotional, all heart, wild celebrations. |
@@ -59,6 +61,22 @@ Traits are based on each person's **public image and playing style**. The locker
 | **Bruno Guimarães** | The warrior-poet | Passionate Brazilian newcomer; wasn't in Budapest and refuses to let anyone dwell on it. |
 | **Christos Tzolis** | The new arrival | New winger with an eye for a cross. |
 | **Max Dowman** | The prodigy (神童) | 16 years old, fearless, left-footed slalom dribbler. |
+
+---
+
+## Gyökeres's jutsu — 「仮面殺法」 *KAMEN SAPPŌ* — "Masked Killer Technique"
+
+When the ball reaches his feet, Gyökeres stops being a footballer and becomes an assassin.
+
+| Stage | Name | What we see |
+|---|---|---|
+| 1 | 「受」 *Uke* — The Receive | Back to goal, a defender on his shoulder. He drops his shoulder and the defender just bounces off him. |
+| 2 | 「冷眼」 *Reigan* — Cold Eyes | His eyes go dead calm. The world drains to grey; only the goal stays red, with a sniper crosshair over it. The crowd noise vanishes and all we hear is his heartbeat. |
+| 3 | 「猛進」 *Mōshin* — The Charge | A straight line to goal. Defenders scatter like leaves in a gale; the grass tears under his boots; afterimages trail behind him. |
+| 4 | 「一殺」 *Issatsu* — One Kill | One touch, one finish. He never looks at the keeper. The net ripples before the keeper moves. |
+| 5 | 「仮面」 *Kamen* — The Mask | He laces his fingers over his face as a ghostly oni mask forms over his hands. The kanji 殺 fades behind him. |
+
+**The seal (封印, *fūin*):** this season the technique is locked. Every time he reaches Stage 2, black chains snap tight around his boots and the colour floods back. **In this part of the season the full jutsu is only shown in flashbacks to his 2025/26 title-winning goals,** because he hasn't scored in 2026/27 yet. The script unseals it the first time he scores for real.
 
 ---
 
@@ -117,7 +135,7 @@ The Emirates crowd sings *The Angel (North London Forever)* by Louis Dunford as 
 | 0:20–0:26 | Shootout. Eze's kick misses. Raya saves one and roars. There's still hope. | SFX: a heartbeat, getting faster. |
 | 0:26–0:33 | Gabriel walks to the spot. Slow motion. He strikes, and the red ball rises... over the bar... into the night sky. | Silence. A single cracked taiko. |
 | 0:33–0:39 | Gabriel falls to his knees. Ødegaard is the first to reach him. Arteta walks onto the pitch and hugs Gabriel's head to his chest. | ARTETA (quietly): "Look at me. We go again. Together." |
-| 0:39–0:46 | Hard cut to colour: a sunlit parade, the Premier League trophy held high. The two images are shown side by side. Title card. | NARRATOR: "Champions of England. Broken in Europe. The season to defend the crown begins." Text: **王冠を守れ — DEFEND THE CROWN** |
+| 0:39–0:46 | Hard cut to colour: a montage of the title-winning season. Gyökeres runs through a defence, the **Masked Killer Technique** in full colour, then the mask celebration. Then the Premier League trophy held high. The Budapest image and the title image are shown side by side. Title card. | NARRATOR: "Champions of England. Broken in Europe. The season to defend the crown begins." Text: **王冠を守れ — DEFEND THE CROWN** |
 
 ---
 
@@ -149,7 +167,7 @@ The Emirates crowd sings *The Angel (North London Forever)* by Louis Dunford as 
 | 0:23–0:28 | 15'. Calafiori passes and Havertz shoots first time into the far corner. | 「ゴール！」 HAVERTZ (inner voice): "This one counts too." |
 | 0:28–0:33 | 23'. Tzolis crosses, the keeper parries, and Saka taps it into the empty net, grinning and pointing at Tzolis. | FANS (C2): "Bukayo Saka, he's one of our own!" |
 | 0:33–0:39 | 49'. White to Saka to Ødegaard, left foot, 3–0. | FANS (C5), waving at the away end: "Welcome to the Premier League — now go home with nothing!" |
-| 0:39–0:45 | Gabriel clears the last attack of the night and roars; a clean sheet. | NARRATOR: "The defence of the crown has begun." |
+| 0:39–0:45 | Gabriel clears the last attack of the night and roars; a clean sheet. Cut to the bench: Gyökeres, unused, hood up, fingers laced into the shape of his mask. Black chains glint around his boots. | NARRATOR: "The defence of the crown has begun... without its killer." |
 | 0:45–0:50 | Final whistle. The crowd sways, arms linked. Scoreboard, plus a small crown icon with "1 / 38". | FANS (C1): "We love you Arsenal, we do!" Text: **アーセナル 3 – 0 コヴェントリー** |
 
 ---
@@ -184,11 +202,11 @@ The Emirates crowd sings *The Angel (North London Forever)* by Louis Dunford as 
 | 0:25–0:32 | **LOCKER ROOM (half-time).** Rice clowns around to lift the mood. Arteta cuts in, suddenly quiet and intense. | ARTETA: "In Budapest, we led — and we let them come back. Today WE are the ones who come back. Understood?!" ALL: "YES, BOSS!" |
 | 0:32–0:38 | 50'. Tzolis crosses; Ødegaard finishes with his left foot. 2–1. Cherry-blossom fireworks. | COMMENTATOR: "Ødegaard! Turnaround complete!" |
 | 0:38–0:44 | **TERRACES.** The Clock End cups hands to ears at the Chelsea fans. | FANS (C6): "You scored too early, you scored too early — now watch us turn it round!" |
-| 0:44–0:52 | White stands in front of the Chelsea keeper at a late corner, deadpan. Final whistle; Arteta hugs every player. Scoreboard, crown tracker at "3 / 38". | FANS (C1): "We love you Arsenal, we do!" Text: **アーセナル 2 – 1 チェルシー** |
+| 0:44–0:52 | Gyökeres comes off the bench, his first Premier League minutes of the season, and the chains rattle as he runs on. White stands in front of the Chelsea keeper at a late corner, deadpan. Final whistle; Arteta hugs every player. Scoreboard, crown tracker at "3 / 38". | FANS (C1): "We love you Arsenal, we do!" Text: **アーセナル 2 – 1 チェルシー** |
 
 ---
 
-## EP 5 — 「帰還」 *KIKAN* — "The Return" · 50 s
+## EP 5 — 「帰還」 *KIKAN* — "The Return" · 56 s
 **Champions League, league phase · Napoli 0–1 Arsenal · Stadio Diego Armando Maradona · Wed 9 Sep 2026**
 
 *The emotional core of the first arc: the first European night since Budapest.*
@@ -198,11 +216,13 @@ The Emirates crowd sings *The Angel (North London Forever)* by Louis Dunford as 
 | 0:00–0:05 | Vesuvius smoking under the stars; the Champions League star-ball rises like a moon. 帰還. | NARRATOR: "One hundred and two days later. Europe again." |
 | 0:05–0:12 | **TUNNEL.** Gabriel stares at the star-ball logo on the wall. His hands shake. In ink, the ball flies over the bar again. | SFX: heartbeat. |
 | 0:12–0:19 | Arteta takes Gabriel's face in both hands, forehead to forehead. | ARTETA: "Madrid is at the end of this road. And you are going to carry us there." GABRIEL: "...Sim, mister." |
-| 0:19–0:27 | A comedy-frustration montage: Merino, Saka, Hincapié and Madueke miss sitters, each followed by a crying chibi. Arteta strikes four increasingly dramatic poses of despair. | SFX: *boing*, *clang*. NARRATOR: "Four point zero five xG... zero goals." |
-| 0:27–0:33 | Napoli's big chance: Gabriel throws his body in front of the shot. He roars, and the colour floods back. | NARRATOR: "The ghost... is fading." |
-| 0:33–0:40 | 75'. Ødegaard at the edge of the box, left foot, off the post and in. | 「ゴール！」 COMMENTATOR: "Off the post! Ødegaard!" |
-| 0:40–0:46 | Final whistle. Gabriel drops to his knees, the same pose as Budapest, but this time he is smiling. Ødegaard reaches him first again. | Crowd roar (no chant). |
-| 0:46–0:50 | Scoreboard. On the horizon, a faint outline of Madrid's Metropolitano. | Text: **ナポリ 0 – 1 アーセナル** · "Road to Madrid: 1" |
+| 0:19–0:25 | Gyökeres's first start of the season. The ball finds him with his back to goal and he begins the jutsu: 「受」, then 「冷眼」, the world turns grey and the crosshair locks on... Then the black chains snap tight around his boots, the colour floods back, and the ball is gone. | SFX: chains clanking. NARRATOR: "The seal holds." |
+| 0:25–0:31 | A comedy-frustration montage: Merino, Saka, Hincapié and Madueke miss sitters, each followed by a crying chibi. Arteta strikes four increasingly dramatic poses of despair. | SFX: *boing*, *clang*. NARRATOR: "Four point zero five xG... zero goals." |
+| 0:31–0:36 | 73'. Gyökeres's number goes up: nine touches, no shots. He walks off past Havertz coming on; the two strikers touch hands. Gyökeres stares at the chains on his boots. | HAVERTZ (quietly): "Next time, it's yours." |
+| 0:36–0:41 | Napoli's big chance: Gabriel throws his body in front of the shot. He roars, and the colour floods back. | NARRATOR: "The ghost... is fading." |
+| 0:41–0:47 | 75'. Ødegaard at the edge of the box, left foot, off the post and in. | 「ゴール！」 COMMENTATOR: "Off the post! Ødegaard!" |
+| 0:47–0:52 | Final whistle. Gabriel drops to his knees, the same pose as Budapest, but this time he is smiling. Ødegaard reaches him first again. | Crowd roar (no chant). |
+| 0:52–0:56 | Scoreboard. On the horizon, a faint outline of Madrid's Metropolitano. | Text: **ナポリ 0 – 1 アーセナル** · "Road to Madrid: 1" |
 
 ---
 
@@ -223,7 +243,7 @@ The Emirates crowd sings *The Angel (North London Forever)* by Louis Dunford as 
 
 ---
 
-## EP 7 — 「神童」 *SHINDŌ* — "Child Prodigy" · 46 s
+## EP 7 — 「神童」 *SHINDŌ* — "Child Prodigy" · 52 s
 **Carabao Cup R3 · Ipswich Town 2–4 Arsenal · Portman Road · Tue 15 Sep 2026**
 
 *Eze's episode as much as Dowman's.*
@@ -237,11 +257,12 @@ The Emirates crowd sings *The Angel (North London Forever)* by Louis Dunford as 
 | 0:22–0:28 | 47'. Zubimendi threads the pass; Dowman controls and rolls it into the far corner. 3–0. He is the only 16-year-old besides Rooney to score twice for a Premier League club in one match. | NARRATOR: "History." |
 | 0:28–0:34 | Merino makes it 4–0. Then Mehmeti pulls one back, and substitute Akpom (a former Gunner) scores in stoppage time. | ARTETA (furious): "CONCENTRATION! Ninety minutes!" |
 | 0:34–0:40 | Final whistle. Dowman runs to Eze first. | DOWMAN: "That's what you wanted to show me?" EZE: "That's it. You play. You don't carry the fear." |
-| 0:40–0:46 | Scoreboard. | Text: **イプスウィッチ 2 – 4 アーセナル** · "Into Round 4" |
+| 0:40–0:47 | **LOCKER ROOM (after the match).** Gyökeres, who led the line, sits apart and unwraps his boots. The chains are still there, but one link is cracked. Arteta sits down beside him. | ARTETA: "Your confidence is intact. I see it. The goals will come, Viktor. And when they come, they will come like a flood." GYÖKERES (quietly, fingers laced over his face): "...Soon." |
+| 0:47–0:52 | Scoreboard. | Text: **イプスウィッチ 2 – 4 アーセナル** · "Into Round 4" |
 
 ---
 
-## EP 8 — 「敗北」 *HAIBOKU* — "Defeat" · 50 s
+## EP 8 — 「敗北」 *HAIBOKU* — "Defeat" · 56 s
 **Premier League · Brighton & Hove Albion 3–0 Arsenal · Amex Stadium · Sat 19 Sep 2026**
 
 *The first crack in the defence of the crown.*
@@ -255,7 +276,8 @@ The Emirates crowd sings *The Angel (North London Forever)* by Louis Dunford as 
 | 0:21–0:26 | The Arsenal away end in the drizzle: scarves still up, a wall of red, silent and defiant. | Crowd noise only (no chant). |
 | 0:26–0:37 | **LOCKER ROOM (after the match).** Silence. The kettle clicks off. Gabriel stares at the floor; the Budapest ghost is back. Arteta stands in the centre and speaks quietly. | ARTETA: "Painful. Good. Remember this feeling. This is a big lesson — and I take it first. We have been knocked down before. Budapest did not finish us. Brighton will not." |
 | 0:37–0:44 | Ødegaard picks the fallen cannon banner off the floor and hangs it back up. Gabriel stands first this time and pulls the others up. | GABRIEL: "Three weeks. Then we answer." |
-| 0:44–0:50 | The crown in the shrine room, still there. Crown tracker at "4 wins · 1 loss". 「つづく」 | Text: **ブライトン 3 – 0 アーセナル** · "To be continued…" |
+| 0:44–0:49 | The crown in the shrine room, still there. Crown tracker at "4 wins · 1 loss". | Text: **ブライトン 3 – 0 アーセナル** |
+| 0:49–0:56 | **CLIFFHANGER — the international break.** Gyökeres in Sweden's yellow, under stadium lights, receives with his back to goal. 「受」, then 「冷眼」: the world turns grey and the crosshair locks on. The chains strain... and one link **shatters**. Cut to black before the shot. | SFX: chains cracking, heartbeat, then silence. NARRATOR: "The seal is breaking." Text: 「つづく」 · "To be continued…" |
 
 ---
 
@@ -267,6 +289,7 @@ Sources: ESPN, Sky Sports, NBC Sports, UEFA, Olympics.com, CNN, Euronews, Al Jaz
 - **EP4:** Havertz's equaliser was "midway through the first half". The header is drawn for drama.
 - **EP6:** Arsenal were 4 from 4 in the league after this game. "Top of the league" is inferred and should be checked against the table.
 - **EP7:** minutes of the Madueke, Merino, Mehmeti and Akpom goals.
+- **Gyökeres:** 21 goals in all competitions (14 in the Premier League) in 2025/26, a title winner. In 2026/27 he wasn't used off the bench in the first two league games and came on against Chelsea. He started against Napoli (9 touches, 0 shots, replaced by Havertz after 73 minutes, shortly before Ødegaard's winner) and started against Ipswich. As of late September he has 0 goals and 29 Premier League minutes. He was called up by Sweden for the international break and started against Romania. Whether he played in the Community Shield, at Sunderland or at Brighton isn't confirmed, so the script doesn't show him in those games. Arteta's lines to him in EP7 are a dramatised paraphrase of Arteta's public comments that Gyökeres's confidence is intact and the goals will come. The jutsu, the seal and the chains are fiction.
 - All **locker room and tunnel scenes, dialogue and chants are invented**. The one exception is Arteta calling the Brighton defeat a "big lesson", which he really said. The emotional arcs (Gabriel, Eze) are storytelling based on the real shootout, not claims about how the players actually feel.
 
 ## Before generating on Higgsfield (when you're ready)
@@ -284,4 +307,4 @@ Sources: ESPN, Sky Sports, NBC Sports, UEFA, Olympics.com, CNN, Euronews, Al Jaz
   | Seedance 2.5 · 1080p | 1,104 | 24 | ~340 | **~1,470 credits** |
 
   The balance at the time of writing is 40 credits (Pro plan).
-- **Clip plan.** 9 episodes, ~430 seconds in total, about 72 clips.
+- **Clip plan.** 9 episodes, ~448 seconds in total, about 75 clips. The jutsu needs its own reference sheet (the five stages plus the sealed version), about 6 images, or roughly 12 more credits.

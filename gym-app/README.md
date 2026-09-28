@@ -10,6 +10,14 @@ A simple, phone-friendly gym tracker in one HTML file.
 
 Data is saved in the browser (and synced privately when opened as a Claude artifact).
 
-## Run it yourself
+## Public web app
 
-`greenrep.html` is the app body. `./build.sh` wraps it into `dist/index.html`, which you can open directly or host on any static site.
+Live at **https://6ix411.github.io/Higgsfield/greenrep/** once GitHub Pages is on
+(Settings → Pages → Deploy from a branch → this branch, `/docs` folder).
+Open it on a phone and use "Add to Home Screen" to install it. It works offline.
+
+## Editing
+
+Edit `greenrep.html` (the app), then run `./build.sh`. It rebuilds `docs/greenrep/`
+with the install manifest, icons (`icons/`) and offline service worker (`sw.js`).
+Commit and push, and the live site updates within a minute or two.

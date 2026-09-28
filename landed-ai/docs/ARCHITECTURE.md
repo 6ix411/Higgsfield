@@ -59,11 +59,14 @@ landed-ai/
 └── src/
     ├── proxy.ts                  ← session refresh + route protection
     ├── app/                      ← pages (Next.js App Router)
-    │   ├── layout.tsx
-    │   └── page.tsx              ← home (currently a setup-status page)
-    ├── components/               ← (next steps) reusable UI: cards, tables, forms
+    │   ├── page.tsx              ← public home page
+    │   ├── (auth)/               ← /login, /signup + login/signup/logout actions
+    │   ├── (app)/                ← logged-in pages (/dashboard, /profile)
+    │   └── auth/confirm/         ← email confirmation link handler
+    ├── components/               ← reusable UI: buttons, fields, alerts, cards, nav
     └── lib/
         ├── env.ts                ← reads + checks environment variables
+        ├── auth/                 ← current user (DAL), validation, safe redirects
         ├── currency/             ← supported currencies, Naira formatting
         ├── supabase/
         │   ├── client.ts         ← Supabase in the browser
@@ -110,7 +113,22 @@ profiles ─────────────── 1:many ──► import_a
 policies allow a user to read/write only rows where `user_id` is their own id.
 These rules were tested against a real Postgres 16 database before being committed.
 
-## 5. How a calculation works (step 3 preview)
+## 5. Authentication
+
+- **Sign up** (`/signup`) → Supabase creates the user and a database trigger
+  creates their `profiles` row. With email confirmation on, the user gets an
+  email whose link goes to `/auth/confirm`, which verifies it and logs them in.
+- **Log in / log out** are Server Actions in `src/app/(auth)/actions.ts`.
+  Error messages never reveal whether an email is registered.
+- **Three layers of protection** for private pages:
+  1. `src/proxy.ts` redirects logged-out visitors to `/login` (fast, optimistic).
+  2. `src/app/(app)/layout.tsx` and every action call `requireUser()`
+     (`src/lib/auth/dal.ts`), which verifies the session on the server.
+  3. Row Level Security in the database.
+- After login, users return to the page they wanted (`?next=`), but only
+  pages on our own site (`safeRedirectPath`) — this blocks "open redirect" attacks.
+
+## 6. How a calculation works (step 3 preview)
 
 ```
 product cost      = quantity × supplier unit price × supplier rate→NGN
@@ -127,7 +145,7 @@ Customs duty is **not** added automatically. The UI will show a clear
 "Customs duties not included — requires verification" notice until a verified
 tariff source is connected.
 
-## 6. Exchange rates
+## 7. Exchange rates
 
 `ExchangeRateProvider` has one method: `getRate(from, to)`. The app picks the
 implementation from the `EXCHANGE_RATE_PROVIDER` env variable. The provider
@@ -135,14 +153,14 @@ will be chosen and added in step 3 — candidates include ExchangeRate-API
 (free tier covers NGN) or a paid feed. Whichever is used, the user sees the
 rate, its source and its date, and can override it.
 
-## 7. Official tariff data (future)
+## 8. Official tariff data (future)
 
 `TariffProvider.lookup()` returns a result with `status: "verified"` **only**
 when it comes from an authoritative source, with a citation (name, URL, date).
 To add an official source later: write a class implementing `TariffProvider`,
 register it in `src/lib/tariffs/index.ts`, and set `TARIFF_PROVIDER`.
 
-## 8. AI Import Advisor (step 6 preview)
+## 9. AI Import Advisor (step 6 preview)
 
 1. User asks a question on an analysis page.
 2. Server loads that analysis from Supabase (RLS ensures it's theirs).
@@ -152,13 +170,13 @@ register it in `src/lib/tariffs/index.ts`, and set `TARIFF_PROVIDER`.
 4. Claude answers in plain English using only those numbers, and follows a
    system prompt that forbids inventing duty rates, HS codes or regulations.
 
-## 9. Build plan (incremental)
+## 10. Build plan (incremental)
 
 | Step | What | Status |
 |---|---|---|
 | 1 | Project setup, architecture, database schema, provider interfaces | ✅ done |
-| 2 | Authentication: sign up, login, logout, profile | next |
-| 3 | Calculation engine (+ tests), Import Analyzer page, exchange rates | |
+| 2 | Authentication: sign up, login, logout, profile | ✅ done |
+| 3 | Calculation engine (+ tests), Import Analyzer page, exchange rates | next |
 | 4 | Saved analyses: save, rename, open, delete, scenarios | |
 | 5 | Dashboard: totals, recent analyses, profit indicators | |
 | 6 | AI Import Advisor (Claude) | |
